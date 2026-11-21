@@ -1,0 +1,16 @@
+{
+  "tiers": {
+    "small":  {"model": "claude-haiku-5-5",  "max_tokens": 500},
+    "medium": {"model": "claude-sonnet-5-5", "max_tokens": 1500},
+    "large":  {"model": "claude-opus-5-5",   "max_tokens": 4000}
+  },
+  "default_tier": "medium",
+  "max_file_chars": 6000,
+  "routes": {
+    "rename": "small", "format": "small", "strings": "small",
+    "changelog": "small", "boilerplate": "small", "lint-fix": "small",
+    "bugfix": "medium", "refactor": "medium", "write-tests": "medium",
+    "ui-tweak": "medium", "review": "medium",
+    "feature": "large", "architecture": "large", "debug-hard": "large"
+  }
+}

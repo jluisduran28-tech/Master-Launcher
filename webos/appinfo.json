@@ -1,0 +1,12 @@
+{
+  "id": "com.example.tvlauncher",
+  "version": "4.0.0",
+  "vendor": "Example",
+  "type": "web",
+  "main": "index.html",
+  "title": "TV Launcher",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "resolution": "1920x1080",
+  "disableBackHistoryAPI": true
+}

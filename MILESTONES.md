@@ -1,0 +1,10 @@
+- 2026-11-12 v1.0 launcher base + harness + scripts
+- 2026-11-12 v1.1 preview en formato TV 1080p
+- 2026-11-14 v4.0 compatibilidad Android TV/Google TV, Tizen, webOS (sin probar en TV real)
+- 2026-11-14 v4.1 acción del Asistente de Google con animación
+- 2026-11-19 v4.2 ocultar menú a los 5 s, abajo oculta apps, barra circular
+- 2026-11-19 v4.3 botón de tema claro/oscuro, temas Arena/Oliva y Mate/Tormenta, texto 3D
+- 2026-11-19 v4.4 temas 60/30/10 (arena+oliva+rojo racing / negro mate+gris tormenta+naranja fuego)
+- 2026-11-19 v4.5 contraste volumen/canales, apps permitidas infantil + PIN, info WiFi oculta, curvatura en 3 menús, tamaño de apps
+- 2026-11-20 v4.6 menú de usuario, cambio con OK largo, opacidad de fondos, fondos aleatorios por fuente, segunda pantalla
+- 2026-11-21 v4.7 revisión de compatibilidad: polyfill flex-gap, modo ligero automático, reporte
